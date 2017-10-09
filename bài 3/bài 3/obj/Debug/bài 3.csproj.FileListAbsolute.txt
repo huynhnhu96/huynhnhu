@@ -1,0 +1,6 @@
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\bin\Debug\bài 3.exe.config
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\bin\Debug\bài 3.exe
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\bin\Debug\bài 3.pdb
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\obj\Debug\bài 3.csprojResolveAssemblyReference.cache
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\obj\Debug\bài 3.exe
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\bài 3\bài 3\obj\Debug\bài 3.pdb

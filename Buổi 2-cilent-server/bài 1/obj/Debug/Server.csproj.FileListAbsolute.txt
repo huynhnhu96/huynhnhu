@@ -1,0 +1,9 @@
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\bin\Debug\bài 1.exe.config
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\bin\Debug\bài 1.exe
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\bin\Debug\bài 1.pdb
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\bài_1.Form1.resources
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\bài_1.Properties.Resources.resources
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\bài 1.exe
+D:\Lập trình Mạng\L-p-tr-nh-m-ng\hoten-b1\bài 1\obj\Debug\bài 1.pdb
